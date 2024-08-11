@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 212,
+    "articles": [
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Trudeau 'sickened' by shooting at Trump during rally as Canadian leaders react | CBC News",
+        "description": "Prime Minister Justin Trudeau and other Canadian political leaders issued condemnations on Saturday after a suspected gunman shot at former U.S. president Donald Trump at a campaign rally in Pennsylvania.",
+        "url": "http://www.cbc.ca/news/politics/trudeau-poilievre-trump-reaction-1.7263164",
+        "urlToImage": "https://i.cbc.ca/1.7263127.1720931939!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-trump.jpg",
+        "publishedAt": "2024-07-14T21:37:13.3549097Z",
+        "content": "Prime Minister Justin Trudeau and other Canadian political leaders issued condemnations on Saturday after a suspected gunman shot at former U.S. president Donald Trump at a campaign rally.\r\n\"I'm sick… [+4745 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Madeleine May",
+        "title": "Ex-classmate of Trump rally shooter describes him as \"normal boy,\" rejected from high school rifle team",
+        "description": "An ex-classmate of the gunman who fired shots at former President Donald Trump described 20-year-old Thomas Matthew Crooks as a \"normal boy.\"",
+        "url": "https://www.cbsnews.com/news/trump-rally-shooter-classmate-normal-boy-rejected-from-high-school-rifle-team/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/14/d206d73c-7a8a-44f5-802d-649102b7505a/thumbnail/1200x630g8/a27b6691fb1b1ca56559144efb97c622/gettyimages-2161339004.jpg?v=bc37a4cad39dacb7e4b48f11b71f691b",
+        "publishedAt": "2024-07-14T21:14:00+00:00",
+        "content": "Washington — The gunman who fired shots at former President Donald Trump at his campaign rally in Butler, Pennsylvania, was rejected from his high school's rifle team, according to a former classmate… [+2895 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Corey Comperatore and the other victims of the attack on Trump",
+        "description": "Volunteer firefighter Corey Comperatore was killed trying to protect his family.",
+        "url": "https://www.bbc.co.uk/news/articles/cv2grvznd4jo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d3a4/live/c1f60740-4209-11ef-a69e-0992f9bd84ff.jpg",
+        "publishedAt": "2024-07-14T21:07:22.0728584Z",
+        "content": "One man in the audience died while trying to protect his family during the attempted assassination of Donald Trump on Saturday, authorities say.\r\nCorey Comperatore, a 50-year-old volunteer fire chief… [+1893 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CBS News",
+        "title": "Trump rally shooter identified as Thomas Matthew Crooks, 20-year-old Pennsylvania man. Here's what we know so far. - CBS News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdHJ1bXAtcmFsbHktZ3VubWFuLWlkZW50aWZpZWQv0gE_aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvdHJ1bXAtcmFsbHktZ3VubWFuLWlkZW50aWZpZWQv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-07-14T21:05:06+00:00",
+        "content": null
+      }]
+}
+  
